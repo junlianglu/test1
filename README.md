@@ -1,5 +1,5 @@
 ```console
-> login,admin,0000
+>: login,admin,0000
 > make_store,kroger,33000,0,0,0,5
 OK:change_completed 
 > make_store,kroger,37000,0,1,1000,4
